@@ -6,3 +6,5 @@ This bot uses a given channel on Slack, on this  channel, it sends automated Quo
 The quotes are scraped from a website using BeautifulSoup and saved in the form of a list.
 When called, QuoteBot picks up a random quote fromt this collection and sends it to the desired channel.
 However, it can also be configured to wish at a particular time every day, hence removing the need for monotonous wishing.
+
+![](https://github.com/junior08/QuoteBot/blob/master/bot.PNG)
