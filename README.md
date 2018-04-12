@@ -1,5 +1,5 @@
 # QuoteBot
-A slack- bot which automates the process of wishing people and can be configured to send quotes along with that at a user scheduled time.
+A slack- bot which automates the process of wishing people and can be configured to send quotes along with that- at a user scheduled time.
 
 This bot uses a given channel on Slack, on this  channel, it sends automated Quotes or wishes depending on the needs of the user.
 
