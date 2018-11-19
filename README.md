@@ -7,4 +7,4 @@ The quotes are scraped from a website using BeautifulSoup and saved in the form 
 When called, QuoteBot picks up a random quote fromt this collection and sends it to the desired channel.
 However, it can also be configured to wish at a particular time every day, hence removing the need for monotonous wishing.
 
-![](https://github.com/junior08/QuoteBot/blob/master/bot.PNG)
+![](https://github.com/junior08/QuoteBot/blob/master/bot.PNG) 
